@@ -1,2 +1,2 @@
 # CalculadoraBasica
-Apredendo funcionalidades do C# com um projeto calculadora.
+Aprendendo funcionalidades do C# com um projeto calculadora.
